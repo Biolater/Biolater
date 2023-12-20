@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Biolater
 - 👀 I’m interested in Software Programming
-- 🌱 I’m currently learning Django and Selenium
+- 🌱 I’m currently learning React
 - �
 - 📫 How to reach me ... You can reach me from my instagram https://www.instagram.com/mury.ash/
 
