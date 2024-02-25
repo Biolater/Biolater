@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Biolater
+- 👋 Hi, I’m @Biolater (Murad Yusubov)
 - 👀 I’m interested in Software Programming
-- 🌱 I’m currently learning React
-- �
-- 📫 How to reach me ... You can reach me from my instagram https://www.instagram.com/mury.ash/
+- 🌱 I’m currently learning React and Backend Development
+- 📫 How to reach me ... You can reach me from my gmail yusifovmurad1@gmail.com
 
 <!---
 Biolater/Biolater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
