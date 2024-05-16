@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Biolater (Murad Yusubov)
 - 👀 I’m interested in Software Programming
-- 🌱 I’m currently learning React and Backend Development
+- 🌱 I’m currently learning Machine Learning with python
 - 📫 How to reach me ... You can reach me from my gmail yusifovmurad1@gmail.com
 
 <!---
